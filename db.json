@@ -1,14 +1,74 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "Title": "The Avengers",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "04 May 2012",
+    "Runtime": "143 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Joss Whedon",
+    "Writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
+    "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+    "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "Language": "English, Russian, Hindi",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 38 wins & 79 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "8.1",
+    "imdbVotes": "1,127,047",
+    "imdbID": "tt0848228",
+    "Type": "movie",
+    "DVD": "25 Sep 2012",
+    "BoxOffice": "$623,279,547",
+    "Production": "Walt Disney Pictures",
+    "Website": "http://marvel.com/avengers_movie",
+    "Response": "True"
+  },
+  {
+    "Title": "Super Man",
+    "Year": "2010",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "15 min",
+    "Genre": "Short, Drama",
+    "Director": "Peter O'Donoghue",
+    "Writer": "N/A",
+    "Actors": "Adam Gardiner, Tessa Mitchell, Niamh Peren, Matthew Sunderland",
+    "Plot": "A man in a hospital wheelchair is brutally attacked with a bottle of his own urine. The attacker has his reasons, but revenge is not always sweet. A story about mental fragility, the randomness of fate and the complex nature of blame.",
+    "Language": "English",
+    "Country": "Australia, New Zealand",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.9",
+    "imdbVotes": "19",
+    "imdbID": "tt1725668",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
   }
-}
+]
